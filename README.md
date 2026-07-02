@@ -1,6 +1,6 @@
 <div align="center">
   <h1>⚡ ¡Hola! Soy Angel Rojas (Masterks) ⚡</h1>
-  <h3>👨‍💻 Desarrollador Full Stack & Desktop | ⚙️ Especialista en Optimización | 📊 Formador</h3>
+  <h3>👨💻 Desarrollador Full Stack & Desktop | ⚙️ Especialista en Optimización | 📊 Formador</h3>
   <p><i>"Transformando ideas complejas en software eficiente, automatizado y de alto rendimiento"</i> 🚀</p>
   
   <br>
@@ -28,8 +28,8 @@
 
 <blockquote>
   <h3>🏢 Sistema Integral de Gestión Comercial POS (v6)</h3>
-  <p>🛒 <b>¿Qué es?</b> Un software comercial de alto nivel con arquitectura escalable, diseñado específicamente para la facturación y el control administrativo integral de negocios.</p>
-  <p>💎 <b>Estructura del Sistema:</b> Desarrollado y estructurado en niveles de implementación (incluyendo ediciones <b>Standard</b> y <b>Premium</b>). Incorpora módulos avanzados para auditoría exhaustiva, control de inventario en tiempo real y gestión estructurada de planes de financiamiento.</p>
+  <p>🛒 <b>¿Qué es?</b> Un software comercial de alto nivel con arquitectura escalable, diseñado específicamente para la facturación y el control administrativo de negocios.</p>
+  <p>💎 <b>Estructura del Sistema:</b> Desarrollado y estructurado en niveles de implementación (incluyendo ediciones Standard y Premium). Incorpora módulos avanzados para auditoría exhaustiva, control de inventario en tiempo real y gestión estructurada de planes de financiamiento.</p>
   <p>⚡ <b>El valor añadido:</b> Arquitectura ultra-ligera y altamente optimizada. Funciona con un consumo mínimo de recursos, haciéndolo ideal para hardware de bajos requisitos sin sacrificar fluidez, velocidad de respuesta ni la seguridad de los datos.</p>
   <br>
   <b>Tecnologías Core del Proyecto:</b><br><br>
@@ -38,6 +38,20 @@
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/Estado-En_Producción_v6-success?style=for-the-badge" />
+</blockquote>
+
+<blockquote>
+  <h3>🤖 JARVIS Asistente Personal Inteligente (v2.0)</h3>
+  <p>🎙️ <b>¿Qué es?</b> Un asistente virtual de escritorio para Windows que combina modelos de lenguaje e inteligencia artificial en tiempo real con automatización del sistema y telemetría de hardware.</p>
+  <p>💎 <b>Estructura del Sistema:</b> Desarrollado con una interfaz gráfica nativa y ligera. Cuenta con módulos avanzados de indexación rápida de archivos mediante inserciones SQLite por lotes, control de reproducción de audio por hilos dedicados y un panel remoto de control web sincronizable vía códigos QR.</p>
+  <p>⚡ <b>El valor añadido:</b> Jarvis cuenta con su propio sistema de licenciamiento atado al Hardware ID (HWID), monitor visual interactivo de rendimiento (CPU, RAM, Red, GPU, Temperatura) y un sistema híbrido de memoria a largo plazo (CRUD) protegido contra la alteración de su identidad.</p>
+  <br>
+  <b>Tecnologías Core del Proyecto:</b><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,sqlite,qt" alt="Tech Stack Jarvis" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/Estado-En_Producción_v2.0-success?style=for-the-badge" />
 </blockquote>
 
 <br><hr><br>
@@ -52,7 +66,7 @@
   <br><br><br>
 
   <b>📱 Software Desktop, Apps & Bases de Datos</b><br><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,flutter,dart,mysql,sqlite,bash" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,flutter,dart,mysql,sqlite,bash,qt" /></a>
   <br><br><br>
 
   <b>⚙️ Entornos, DevOps & IA Asistida</b><br><br>
