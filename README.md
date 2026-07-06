@@ -5,10 +5,10 @@
   
   <br>
 
-  <a href="https://www.youtube.com/@Trading-Binarias-Forex" target="_blank"><img src="https://img.shields.io/badge/Trading_%26_Forex-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Trading" /></a>
-  <a href="https://www.youtube.com/@MasterKsGaming" target="_blank"><img src="https://img.shields.io/badge/Gaming_%26_Tech-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Gaming" /></a>
-  <a href="https://kick.com/tradedevgamer" target="_blank"><img src="https://img.shields.io/badge/Streams_en_Kick-00E51D?style=for-the-badge&logo=kick&logoColor=black" alt="Kick" /></a>
-  <a href="https://www.tiktok.com/@masterksxx?lang=es-419" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://www.youtube.com/@Trading-Binarias-Forex"><img src="https://img.shields.io/badge/Trading_%26_Forex-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Trading" /></a>
+  <a href="https://www.youtube.com/@MasterKsGaming"><img src="https://img.shields.io/badge/Gaming_%26_Tech-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Gaming" /></a>
+  <a href="https://kick.com/tradedevgamer"><img src="https://img.shields.io/badge/Streams_en_Kick-00E51D?style=for-the-badge&logo=kick&logoColor=black" alt="Kick" /></a>
+  <a href="https://www.tiktok.com/@masterksxx?lang=es-419"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 </div>
 
 <br><br><hr><br>
@@ -33,9 +33,10 @@
   <p>⚡ <b>El valor añadido:</b> Arquitectura ultra-ligera y altamente optimizada. Funciona con un consumo mínimo de recursos, haciéndolo ideal para hardware de bajos requisitos sin sacrificar fluidez, velocidad de respuesta ni la seguridad de los datos.</p>
   <br>
   <b>Tecnologías Core del Proyecto:</b><br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flutter,sqlite" alt="Tech Stack POS" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,flutter,sqlite" alt="Tech Stack POS" />
+  <br><br>
+  <a href="https://www.youtube.com/watch?v=N3RAyDBUNJI"><img src="https://img.shields.io/badge/Demo_Versión_Básica-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo POS Basico" /></a>
+  <img src="https://img.shields.io/badge/Versión_Premium-Próximamente-blue?style=for-the-badge" alt="Premium Coming Soon" />
   <br><br>
   <img src="https://img.shields.io/badge/Estado-En_Producción_v6-success?style=for-the-badge" />
 </blockquote>
@@ -47,9 +48,10 @@
   <p>⚡ <b>El valor añadido:</b> Jarvis cuenta con su propio sistema de licenciamiento atado al Hardware ID (HWID), monitor visual interactivo de rendimiento (CPU, RAM, Red, GPU, Temperatura) y un sistema híbrido de memoria a largo plazo (CRUD) protegido contra la alteración de su identidad.</p>
   <br>
   <b>Tecnologías Core del Proyecto:</b><br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sqlite,qt" alt="Tech Stack Jarvis" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,sqlite,qt" alt="Tech Stack Jarvis" />
+  <br><br>
+  <a href="https://www.youtube.com/watch?v=N3RAyDBUNJI"><img src="https://img.shields.io/badge/Ver_Demo_en_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Jarvis" /></a>
+  <img src="https://img.shields.io/badge/Documentación-En_Proceso-yellow?style=for-the-badge" />
   <br><br>
   <img src="https://img.shields.io/badge/Estado-En_Producción_v2.0-success?style=for-the-badge" />
 </blockquote>
@@ -62,19 +64,17 @@
 <div align="center">
   <br>
   <b>🌐 Desarrollo Web & Frameworks</b><br><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,angular,php,bootstrap,nodejs" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,php,bootstrap,nodejs" />
   <br><br><br>
 
   <b>📱 Software Desktop, Apps & Bases de Datos</b><br><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,flutter,dart,mysql,sqlite,bash,qt" /></a>
+  <img src="https://skillicons.dev/icons?i=py,flutter,dart,mysql,sqlite,bash,qt" />
   <br><br><br>
 
   <b>⚙️ Entornos, DevOps & IA Asistida</b><br><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,linux,docker,git,github,postman" /></a>
+  <img src="https://skillicons.dev/icons?i=vscode,linux,docker,git,github,postman" />
   <br><br>
-  <img src="https://img.shields.io/badge/Windsurf_IDE-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF9900?style=for-the-badge" />
+ 
 </div>
 
 <br><hr><br>
@@ -97,13 +97,13 @@
     <tr>
       <td width="50%" align="center">
         <h4>📈 Trading & Finanzas</h4>
-        <a href="https://www.youtube.com/@Trading-Binarias-Forex" target="_blank">
+        <a href="https://www.youtube.com/@Trading-Binarias-Forex">
           <img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&auto=format&fit=crop&q=80" width="90%" style="border-radius: 8px;" alt="Trading" />
         </a>
       </td>
       <td width="50%" align="center">
         <h4>🎮 Gaming & Highlights</h4>
-        <a href="https://www.youtube.com/@MasterKsGaming" target="_blank">
+        <a href="https://www.youtube.com/@MasterKsGaming">
           <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?w=400&auto=format&fit=crop&q=80" width="90%" style="border-radius: 8px;" alt="Gaming" />
         </a>
       </td>
@@ -113,9 +113,12 @@
 
 <br><hr><br>
 
-<h2>💖 ¡Invítame un cafecito! ☕</h2>
+<h2>💖 ¡Apoya mi trabajo independiente! ☕</h2>
 <p>
-Si mi software (POS), mis herramientas, transmisiones o soporte técnico te han sido de utilidad y quieres apoyar mi trabajo como desarrollador independiente, ¡cualquier aporte es súper agradecido! 🙌 Esto me ayuda a costear servidores, mejorar mi equipo y seguir creando soluciones.
+Si mi <b>Sistema POS</b>, las herramientas de automatización de <b>JARVIS</b>, mis transmisiones o el soporte técnico que brindo te han sido de utilidad, ¡cualquier aporte es inmensamente valorado! 🙌 
+</p>
+<p>
+Tu apoyo directo me permite mantener la infraestructura de mis servidores, optimizar constantemente mis proyectos, mejorar el hardware para seguir creando soluciones de alto rendimiento y dedicar más tiempo a innovar para ti.
 </p>
 
 <table width="100%" border="0">
@@ -145,6 +148,3 @@ Si mi software (POS), mis herramientas, transmisiones o soporte técnico te han 
     </td>
   </tr>
 </table>
-
-<br>
-<p align="center"><i>¡Gracias por pasarte por mi perfil! No dudes en contactarme si necesitas llevar tu proyecto al siguiente nivel. 🚀</i></p>
