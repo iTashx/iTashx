@@ -35,7 +35,7 @@
   <b>Tecnologías Core del Proyecto:</b><br><br>
   <img src="https://skillicons.dev/icons?i=py,flutter,sqlite" alt="Tech Stack POS" />
   <br><br>
-  <a href="https://www.youtube.com/watch?v=N3RAyDBUNJI"><img src="https://img.shields.io/badge/Demo_Versión_Básica-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo POS Basico" /></a>
+  <a href="https://www.youtube.com/watch?v=8_pH2vNMaZI"><img src="https://img.shields.io/badge/Demo_Versión_Básica-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo POS Basico" /></a>
   <img src="https://img.shields.io/badge/Versión_Premium-Próximamente-blue?style=for-the-badge" alt="Premium Coming Soon" />
   <br><br>
   <img src="https://img.shields.io/badge/Estado-En_Producción_v6-success?style=for-the-badge" />
